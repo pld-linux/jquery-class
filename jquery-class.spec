@@ -2,7 +2,7 @@
 Summary:	jQuery plugin that helps you to create and work with classes/objects
 Name:		jquery-%{plugin}
 Version:	1.1.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 Source0:	https://github.com/kilhage/class.js/tarball/v.%{version}/%{name}-%{version}.tgz
